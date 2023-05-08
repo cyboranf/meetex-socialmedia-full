@@ -21,6 +21,4 @@ To get started with the full project, follow these steps:
 
 Contributions are welcome! Feel free to open an issue or submit a pull request in the respective submodule repositories if you have any improvements or suggestions.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
