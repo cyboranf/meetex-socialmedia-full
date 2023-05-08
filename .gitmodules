@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/cyboranf/meetex-socialmedia-restapi.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/cyboranf/meetex-socialmedia-webapp.git
